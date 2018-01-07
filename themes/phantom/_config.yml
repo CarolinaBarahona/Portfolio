@@ -1,0 +1,22 @@
+# Header
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+subtitle_main: Lorem ipsum dolor sit amet <br />template designed by <a href="http://html5up.net">HTML5 UP</a>.
+
+# Theme Secondary subtitle
+susbtitle_secondary: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
